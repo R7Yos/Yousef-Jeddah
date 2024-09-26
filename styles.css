@@ -1,6 +1,7 @@
 .all {
     background-image:linear-gradient(skyblue,#ffffff);
 }
+
 .header {
     display: flex;
     justify-content: center;
@@ -8,36 +9,30 @@
     background-size:cover;
     background-image:url("https://content.r9cdn.net/rimg/dimg/60/83/227458b2-city-17976-16500d9edcd.jpg?crop=true&width=1020&height=498");
     height:500px;
-    
-    
 }
+
 #Jed {
      margin-top:200px;
      font-size: 7ch;
      text-shadow:3px 0 0 beige;
-   
-     
-    
-    
-    
 }
+
 .s1 {
     border:3px solid black;
     border-radius:10px;
     margin-top:100px;
     padding-left:10px;
     font-size:2.5ch;
-    
-
 }
+
 #img1 {
     width: 600px;
     height: 400px;
     display: block;   
     margin: 100px auto 90px auto;
     border: 3px solid black;
-    
 }
+
 #img2 {
     width: 600px;
     height:400px;
@@ -53,6 +48,7 @@
     padding-left:10px;
     font-size:2.5ch;
 }
+
 #end {
     background-color: skyblue;
     display: flex;
